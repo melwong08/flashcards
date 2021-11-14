@@ -2,7 +2,7 @@
 
 Flashcards are useful tools to help memorize vocabulary words, dates, and any other information while studying. This app allows the user to create their own flashcard decks with two-sided cards and a study function. Students can customize their decks to their preferences. 
 
-*Note: node_modules folder missing from files downloaded from qualified
+*Note: node_modules folder missing from files downloaded from qualified*
 
 ## Features
 - Create, view, study, and delete decks from the homescreen
