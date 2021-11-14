@@ -11,22 +11,22 @@ Flashcards are a useful tool to help memorize vocabulary words, dates, and any o
 ## Screenshots
 
 ### Home
-![home screen] (https://github.com/melwong08/flashcards/blob/main/images/home.PNG)
+![home screen](https://github.com/melwong08/flashcards/blob/main/images/home.PNG)
 
 ### Create Deck
-![create deck] (https://github.com/melwong08/flashcards/blob/main/images/create_deck.PNG)
+![create deck](https://github.com/melwong08/flashcards/blob/main/images/create_deck.PNG)
 
 ### Add Card
-![add card] (https://github.com/melwong08/flashcards/blob/main/images/add_card.PNG)
+![add card](https://github.com/melwong08/flashcards/blob/main/images/add_card.PNG)
 
 ### Deck
-![view deck] (https://github.com/melwong08/flashcards/blob/main/images/view.PNG)
+![view deck](https://github.com/melwong08/flashcards/blob/main/images/view.PNG)
 
 ### Study
-![study] (https://github.com/melwong08/flashcards/blob/main/images/study.PNG)
+![study](https://github.com/melwong08/flashcards/blob/main/images/study.PNG)
 
 ### Edit Deck
-![edit deck] (https://github.com/melwong08/flashcards/blob/main/images/edit_deck.PNG)
+![edit deck](https://github.com/melwong08/flashcards/blob/main/images/edit_deck.PNG)
 
 ## Built with:
 - React.js
